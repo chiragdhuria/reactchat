@@ -2,7 +2,7 @@ import firebase from "firebase/app"
 import "firebase/auth"
 
 export const auth = firebase.initializeApp ({
-    apiKey: "AIzaSyDSH7e8gEHsvnDaYlmxyKzcU5V_NlEFsrE",
+    apiKey: "apikey",
     authDomain: "reactchat-7479d.firebaseapp.com",
     projectId: "reactchat-7479d",
     storageBucket: "reactchat-7479d.appspot.com",
